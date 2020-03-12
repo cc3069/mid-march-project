@@ -3,6 +3,6 @@ function setup() {
 }
 
 function draw() {
-    background(225);
-    rect(30, 300, 100, 100);
+    background(305);
+    rect(40, 300, 100, 100);
 }
