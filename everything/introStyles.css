@@ -1,0 +1,13 @@
+body {
+    background-color: aquamarine;
+    instructions:
+}
+#instructions{
+    font-family: 'Dosis';
+    font-size: 2vw;
+    visibility: visible;
+    color: palevioletred;
+    justify-content: center;
+    
+    
+}
